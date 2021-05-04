@@ -1,5 +1,7 @@
 1 selleri
 
+1 kurkku
+
 1 avokado
 
 1 kurpitsa (esim. myskikurpitsa)
